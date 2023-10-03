@@ -7,7 +7,10 @@
 - 🚀 Sou bastante competitivo e ambicioso.
 
 
-
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=dudualvim&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-dudualvim.vercel.app/api/top-langs/?username=dudualvim&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
  &nbsp;
  &nbsp;
@@ -55,11 +58,6 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
 
 &nbsp;
 &nbsp;
